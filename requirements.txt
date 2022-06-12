@@ -1,0 +1,9 @@
+torch
+tokenizers
+espnet
+soundfile
+sounddevice
+scipy
+requests
+playsound
+PyGObject
